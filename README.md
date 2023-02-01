@@ -61,6 +61,10 @@
             alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a> </p>
+            
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkmdCodes&show_icons=true&locale=en&theme=dracula&layout=compact" alt="rkmdCodes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkmdCodes&show_icons=true&theme=dracula&locale=en" alt="rkmdCodes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkmdCodes&theme=dracula&" alt="aditi-singh16" /></p>
 <!---
 rkmdCodes/rkmdCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
