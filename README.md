@@ -7,7 +7,7 @@
 <p>
     <g-emoji class="g-emoji" alias="seedling"
         fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji>
-    I’m currently learning Web Development
+    I’m a Frontend focused Full Stack Developer
 </p>
 <p>✨ I am open to Intern/Full time job opportunities as a Software Developer</p>
 <p>💻 My Web Development Tech Stack: MERN </p>
