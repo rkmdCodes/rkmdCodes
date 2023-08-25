@@ -10,7 +10,7 @@
     I’m a Frontend focused Full Stack Developer
 </p>
 <p>✨ I am open to Intern/Full time job opportunities as a Software Developer</p>
-<p>💻 My Web Development Tech Stack: MERN </p>
+<p>💻 My Web Development Tech Stack: NextJs ReactJs Typescript Nodejs ExpressJs and  MongoDB </p>
 <p>📫 Reach out to me at rajat24dw@gmail.com</p>
 <br>
 
