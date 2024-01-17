@@ -9,7 +9,7 @@
         fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji>
     I’m a Frontend focused Full Stack Developer
 </p>
-<p>✨ I am open to Intern/Full time job opportunities as a Software Developer</p>
+<p>✨ I am working as Founding Software Engineer at pre-seed funded startup Zing</p>
 <p>💻 My Web Development Tech Stack: NextJs ReactJs Typescript Nodejs ExpressJs and  MongoDB </p>
 <p>📫 Reach out to me at rajat24dw@gmail.com</p>
 <br>
